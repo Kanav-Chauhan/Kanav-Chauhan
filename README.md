@@ -54,4 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanav-chauhan&" alt="kanav-chauhan" /></p>
   
-  [![Praveen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Praveenms13&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Praveen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kanav-Chauhan&theme=tokyo-night)](https://github.com/Kanav-Chauhan/github-readme-activity-graph)
