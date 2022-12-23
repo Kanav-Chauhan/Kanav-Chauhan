@@ -53,3 +53,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanav-chauhan&show_icons=true&locale=en" alt="kanav-chauhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanav-chauhan&" alt="kanav-chauhan" /></p>
+  
+  [![Praveen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Praveenms13&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
