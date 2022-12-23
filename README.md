@@ -50,8 +50,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanav-chauhan&show_icons=true&locale=en&layout=compact" alt="kanav-chauhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanav-chauhan&show_icons=true&locale=en" alt="kanav-chauhan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kanav-chauhan&theme=tokyo-night&show_icons=true&locale=en" alt="kanav-chauhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanav-chauhan&" alt="kanav-chauhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanav-chauhan&theme=tokyo-night" alt="kanav-chauhan" /></p>
   
-  [![Praveen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kanav-Chauhan&theme=tokyo-night)](https://github.com/Kanav-Chauhan/github-readme-activity-graph)
+  [![Kanav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kanav-Chauhan&theme=tokyo-night)](https://github.com/Kanav-Chauhan/github-readme-activity-graph)
