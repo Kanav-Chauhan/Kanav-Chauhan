@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kanav.netlify.app](https://kanav.netlify.app)
 
-- 📫 How to reach me **https://www.linkedin.com/in/kanav-chauhan-7a1a24230/**
+- 📫 How to reach me **www.linkedin.com/in/kanavchauhan001**
 
 - 📄 Know about my experiences [https://github.com/Kanav-Chauhan/kanav-react-portpolio/blob/main/src/assets/img/resume.pdf](https://github.com/Kanav-Chauhan/kanav-react-portpolio/blob/main/src/assets/img/resume.pdf)
 
@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://codepen.io/@kanav-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kanav-chauhan" height="30" width="40" /></a>
 <a href="https://twitter.com/kanavchauhan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanavchauhan001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanav-chauhan-7a1a24230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanav-chauhan-7a1a24230" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kanavchauhan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanav-chauhan-7a1a24230" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18324051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18324051" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kanavchauhan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kanavchauhan001" height="30" width="40" /></a>
 <a href="https://instagram.com/kanavchauhan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="handsome_kanav" height="30" width="40" /></a>
