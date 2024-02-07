@@ -1,4 +1,4 @@
-![Header](./[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNzdmFqazVlaGF0NGdkd293bDNtY2Q4YTJhNnJ4dGxuNzhmNndzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LYXA3UI43OMSPUhnyD/giphy.gif])
+![Header]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNzdmFqazVlaGF0NGdkd293bDNtY2Q4YTJhNnJ4dGxuNzhmNndzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LYXA3UI43OMSPUhnyD/giphy.gif])
 <h1 align="center"> Hi! <img  src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" alt="chan" width="30px" height="30px"> I'm Kanav Chauhan !!
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+B.Tech+CSE+Student+at+SRM+University.;A+Full+Stack+Web+Developer.;A+Tech+Enthusiast>)](https://git.io/typing-svg)
