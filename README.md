@@ -83,10 +83,10 @@
 </a> 
 </p>
 
-| My Stats ✨ | Most Played Languages ⚡ |
-|------------|-------------------------|
-| ![Kanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanav-Chauhan&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanav-Chauhan&layout=compact&theme=radical)](https://github.com/Kanav-Chauhan) |
+| GitHub Stats                                                                                           | Top Languages                                                                                            |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| ![Kanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanav-Chauhan&show_icons=true&theme=neon) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kanav-Chauhan&theme=2077) |
 
-| Github Streak 🔥 |
-|------------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanav-Chauhan&theme=radical)](https://github.com/Kanav-Chauhan) |
+| Productive Time                                                                                                   | Profile Details                                                                                               |
+|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| ![Kanav's Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kanav-Chauhan&theme=2077&utcOffset=5.5) | ![Kanav's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanav-Chauhan&theme=2077) |
