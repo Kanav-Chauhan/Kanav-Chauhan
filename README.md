@@ -9,12 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=kanav-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="kanav-chauhan" /> 
 </p>
 
-<h3 align="left">Support Me:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/kanav"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
-<a href="https://ko-fi.com/kanav"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi" /></a>
 
-</p>
 
 
 
@@ -29,12 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kanavchauhan001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/kanavchauhan001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/18324051" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40"/></a>
-<a href="https://instagram.com/kanavchauhan001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/></a>
-<a href="https://www.youtube.com/c/@kanavchauhan001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/kanavchauhan001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools (AI/ML/Data Science):</h3>
@@ -72,7 +62,13 @@
 </p>
 
 
+<h3 align="left">Support Me:</h3>
 
+<p>
+<a href="https://www.buymeacoffee.com/kanav"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
+<a href="https://ko-fi.com/kanav"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi" /></a>
+
+</p>
 
 <p>
 <br>
