@@ -2,20 +2,21 @@
 
 <h1 align="center"> Hi! <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" alt="chan" width="30px" height="30px"> I'm Kanav Chauhan !!
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=Building+AI+%26+ML+Projects.;Deep+Learning+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=Python+Automation+%26+Data+Solutions.;Practical+Problem+Solver)](https://git.io/typing-svg)
 
 </h1>
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=kanav-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="kanav-chauhan" /> 
 </p>
 
+- 🔭 Working on **Python automation and data processing projects**
+- 🌱 Building reliable solutions using **Python, pandas, Excel, APIs**
+- 👯 Open to collaboration on **automation and data-focused projects**
+- 👨‍💻 Portfolio: [https://kanav.netlify.app](https://kanav.netlify.app)
+- 📫 LinkedIn: [www.linkedin.com/in/kanavchauhan001](https://www.linkedin.com/in/kanavchauhan001)
 
-- 🔭 Currently working on **ML & DL Projects**  
-- 🌱 Learning & building with **Machine Learning, TensorFlow, PyTorch**  
-- 👯 Open to collaborate on **AI/ML projects**  
-- 👨‍💻 Portfolio: [https://kanav.netlify.app](https://kanav.netlify.app)  
-- 📫 Linkedin: [www.linkedin.com/in/kanavchauhan001](https://www.linkedin.com/in/kanavchauhan001)  
-- ⚡ Mindset: **"They Cower, We Devour"**  
 
 
 
@@ -76,14 +77,14 @@
 <h2 align="left">Support Me:</h2>
 
 <p>
+  
 <a href="https://www.buymeacoffee.com/kanav"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a> ‎ ‎ ‎  <a href="https://ko-fi.com/kanav"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi" /></a>
 </p>
+
 <br>
 <h2 align="left">Activity on Github</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=kanav-chauhan&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+
 <br>
 
 
