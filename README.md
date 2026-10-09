@@ -77,8 +77,3 @@ I am a Full Stack Developer specializing in AI, with professional experience bui
 - **Aegis (AI Agent Control Plane):** Developed a control plane around LangGraph with tool governance, permissions, policies, audit trails, and human-in-the-loop workflows.
 - **AI Support Intelligence:** Built a multi-tenant SaaS platform for ticket classification, knowledge retrieval, and AI-generated replies with organization-scoped authorization.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanav-Chauhan&show_icons=true&theme=radical" alt="Kanav's GitHub Stats" />
-</p>
