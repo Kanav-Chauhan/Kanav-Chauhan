@@ -1,93 +1,68 @@
-<img src="https://github.com/Kanav-Chauhan/Kanav-Chauhan/assets/100374335/d0c79b71-c233-4ec3-9059-59ff907aab3e" height="400" width="6000" alt="linkedin logo"  />
+<h1 align="center">Hi 👋, I'm Kanav Chauhan</h1>
+<h3 align="center">AI Engineer | GenAI | Python | RAG | AI Agents | AI Full Stack Developer</h3>
 
-<h1 align="center"> Hi! <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" alt="chan" width="30px" height="30px"> I'm Kanav Chauhan !!
-  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=Python+Automation+%26+Data+Solutions.;Practical+Problem+Solver)](https://git.io/typing-svg)
-
-</h1>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=kanav-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="kanav-chauhan" /> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanavchauhan001" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kanavchauhan001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-- 🔭 Working on **Python automation and data processing projects**
-- 🌱 Building reliable solutions using **Python, pandas, Excel, APIs**
-- 👯 Open to collaboration on **automation and data-focused projects**
-- 👨‍💻 Portfolio: [https://kanav.netlify.app](https://kanav.netlify.app)
-- 📫 LinkedIn: [www.linkedin.com/in/kanavchauhan001](https://www.linkedin.com/in/kanavchauhan001)
+---
 
+## 👨‍💻 About Me
 
+I am a Full Stack Developer specializing in AI, with professional experience building AI-powered applications and backend services. I focus on production-oriented GenAI systems covering RAG, hybrid retrieval, AI agents, tool calling, MCP, multi-tenant SaaS, evaluation, human-in-the-loop workflows, and cloud deployments.
 
+- 🏗️ Currently building robust **AI Agent Control Planes** and **Enterprise RAG platforms**.
+- 🎓 B.Tech in Computer Science Engineering with a specialization in AI & ML from SRM University.
+- 💬 Ask me about **Python, FastAPI, LangGraph, RAG, and AI Agents**.
+- ✉️ How to reach me: **kanavchauhan001@gmail.com**
 
-<h2 align="left"> Social Links </h2>
+---
 
+## 🛠️ Technical Skills
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kanavchauhan001/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
-  <a href="https://t.me/kanavchauhan"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  /></a>
-</div>
-<br>
-<h2 align="left">Languages and Tools (AI/ML/Data Science):</h2>
+### 🧠 AI & Generative AI
+![LLMs](https://img.shields.io/badge/LLMs-blue?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blue?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-blue?style=flat-square) ![Embeddings & Vector Search](https://img.shields.io/badge/Embeddings_&_Vector_Search-blue?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square) ![AI_Agents](https://img.shields.io/badge/AI_Agents-blue?style=flat-square)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" alt="pytest logo"  />
-</div>
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### ⚙️ Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white) 
 
-<br>
+### 🌐 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<h2 align="left">Support Me:</h2>
+---
 
-<p>
-  
-<a href="https://www.buymeacoffee.com/kanav"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a> ‎ ‎ ‎  <a href="https://ko-fi.com/kanav"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi" /></a>
+## 💼 Experience
+
+**Junior AI Full Stack Developer** @ *Toshi Consulting Services Pvt. Ltd* *(04/2026 - Present)*
+- Building AI-powered applications across backend, frontend, and AI workflow layers using Python, FastAPI, PostgreSQL, React, and Next.js.
+- Developing RAG and LLM workflows covering document processing, embeddings, retrieval, grounded responses, and AI-assisted automation.
+- Contributing to multi-tenant AI SaaS architectures with organization-scoped authorization, AI caching, and evaluation.
+
+**AI & ML Intern** @ *Aws* *(09/2023 - 06/2024)*
+- Built LLM-based applications using LangChain with OpenAI and Hugging Face APIs.
+- Developed a RAG chatbot using FAISS for document retrieval and created a SQL agent for natural-language database interaction.
+
+---
+
+## 🚀 Highlighted Projects
+
+- **Atlas (Enterprise Knowledge Intelligence / RAG Platform):** Built a platform supporting document ingestion, chunking, pgvector storage, and citation-grounded answers. Implemented hybrid retrieval and an MCP server interface.
+- **Aegis (AI Agent Control Plane):** Developed a control plane around LangGraph with tool governance, permissions, policies, audit trails, and human-in-the-loop workflows.
+- **AI Support Intelligence:** Built a multi-tenant SaaS platform for ticket classification, knowledge retrieval, and AI-generated replies with organization-scoped authorization.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanav-Chauhan&show_icons=true&theme=radical" alt="Kanav's GitHub Stats" />
 </p>
-
-<br>
-<h2 align="left">Activity on Github</h2>
-
-
-<br>
-
-
-| Productive Time                                                                                                   | Profile Details                                                                                               |
-|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| ![Kanav's Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kanav-Chauhan&theme=2077&utcOffset=5.5) | ![Kanav's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanav-Chauhan&theme=2077) |
